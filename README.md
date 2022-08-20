@@ -1,3 +1,4 @@
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Nandar!](https://www.linkedin.com/in/aakash9868sinha/) 
 <h1 align="left">Hi 👋, I'm Nandar</h1>
 <h3 align="left">A passionate full stack developer from Myanmar</h3>
 🔭 I’m currently working on School Management<br>🌱 I’m currently learning Go, Flask<br>💬 Ask me about angular, react, vue and flutter<br>⚡ Fun fact I think I’m funny 😂
