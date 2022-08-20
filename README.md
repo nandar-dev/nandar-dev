@@ -22,3 +22,9 @@ A passionate full stack developer from Myanmar
 
 <!-- <img height="137px" src="https://github-readme-stats.vercel.app/api?username=nandar-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandar-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="max-width: 100%;margin-left: 10px;"/>
  -->
+ 
+   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api/?username=nandar-dev&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nandar-dev" />
+  </a>
+ 
