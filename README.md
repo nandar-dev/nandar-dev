@@ -1,9 +1,8 @@
 ## Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Nandar!](https://www.linkedin.com/in/nandar-dev/) 
 A passionate full stack developer from Myanmar
 ### 👨🏻‍💻 About Me:
-💡 I like to explore new technologies and develop software solutions and quick hacks. <br/>
+💡 I like to explore new technologies and develop software solutions. <br/>
 🌱 I’m currently learning Go, Flask. <br/>
-💬 Ask me about angular, react, vue and flutter. <br/>
 ✉️ You can email me at nanda.dev.mgk@gmail.com! I'll try to respond as soon as I can. <br/>
 📄 Please have a look at my [Resume](https://nandar.tk/assets/pdf/resume.pdf) for more details about me. I'm open to feedback and suggestions! <br/>
 ⚡ Fun fact I love writing songs.
