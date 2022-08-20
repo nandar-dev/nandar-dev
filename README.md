@@ -1,5 +1,6 @@
 ## Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Nandar!](https://www.linkedin.com/in/nandar-dev/) 
-<h3 align="left">A passionate full stack developer from Myanmar</h3>
+A passionate full stack developer from Myanmar
+### About Me 🚀
 🔭 I’m currently working on School Management<br>🌱 I’m currently learning Go, Flask<br>💬 Ask me about angular, react, vue and flutter<br>⚡ Fun fact I think I’m funny 😂
 
 
