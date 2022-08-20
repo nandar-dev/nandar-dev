@@ -15,5 +15,10 @@ A passionate full stack developer from Myanmar
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nandar-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=nandar-dev&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandar-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+![](https://github-readme-stats.vercel.app/api?username=nandar-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nandar-dev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nandar-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=nandar-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandar-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
