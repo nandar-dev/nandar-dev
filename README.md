@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Nandar</h1>
+<h3 align="center">A passionate full stack developer from Myanmar</h3>
 # 💫 About Me:
 🔭 I’m currently working on School Management<br>🌱 I’m currently learning Go, Flask<br>💬 Ask me about angular, react, vue and flutter<br>⚡ Fun fact I think I’m funny 😂
 
