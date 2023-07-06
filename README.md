@@ -2,7 +2,9 @@
 A passionate full stack developer from Myanmar
 ### 👨🏻‍💻 About Me:
 💡 I like to explore new technologies and develop software solutions. <br/>
+<!-- 
 🌱 I’m currently learning Go, Flask. <br/>
+-->
 ✉️ You can email me at nandar.dev@outlook.com! I'll try to respond as soon as I can. <br/>
 📄 Please have a look at my [Resume](https://nandar.tk/assets/pdf/resume.pdf) for more details about me. I'm open to feedback and suggestions! <br/>
 ⚡ Fun fact I love writing songs.
