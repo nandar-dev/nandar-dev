@@ -1,4 +1,4 @@
-## Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Nandar!](https://www.linkedin.com/in/nandar-dev/) 
+## Hi, I'm [Nandar!](https://www.linkedin.com/in/nandar-dev/) 
 A passionate full stack developer from Myanmar
 ### 👨🏻‍💻 About Me:
 💡 I like to explore new technologies and develop software solutions. <br/>
